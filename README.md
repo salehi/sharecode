@@ -1,6 +1,7 @@
-sharecode
+sharecode Soulutions
 =========
 
 Share Code ACM ICPC solved problems.
-Official Site: sharecode.io
 
+
+Official Site: https://sharecode.io/
