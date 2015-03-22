@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+# Input/Output of Problems
+*.in
+*.output
+
+# Texts
+*.txt
+
